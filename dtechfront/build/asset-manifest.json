@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.982b0d55.css",
-    "main.js": "/static/js/main.b8a6b26b.js",
+    "main.css": "/static/css/main.48ef0bce.css",
+    "main.js": "/static/js/main.2a13f511.js",
     "static/js/787.841edae9.chunk.js": "/static/js/787.841edae9.chunk.js",
     "static/media/threephaseenergymeter.jpg": "/static/media/threephaseenergymeter.b7f8868c7c5c4a3fa45a.jpg",
     "static/media/threphase_page-0001.jpg": "/static/media/threphase_page-0001.7ecd574bac48bb798b5f.jpg",
@@ -22,12 +22,12 @@
     "static/media/playstor-logo.png": "/static/media/playstor-logo.84fe6e0e6d93f207b2e8.png",
     "static/media/applelogo.png": "/static/media/applelogo.3f0b135788cdb000a283.png",
     "index.html": "/index.html",
-    "main.982b0d55.css.map": "/static/css/main.982b0d55.css.map",
-    "main.b8a6b26b.js.map": "/static/js/main.b8a6b26b.js.map",
+    "main.48ef0bce.css.map": "/static/css/main.48ef0bce.css.map",
+    "main.2a13f511.js.map": "/static/js/main.2a13f511.js.map",
     "787.841edae9.chunk.js.map": "/static/js/787.841edae9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.982b0d55.css",
-    "static/js/main.b8a6b26b.js"
+    "static/css/main.48ef0bce.css",
+    "static/js/main.2a13f511.js"
   ]
 }
