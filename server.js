@@ -26,7 +26,10 @@ app.listen(process.env.PORT || 8081, () => {
 });
 
 mongoose
-  .connect("mongodb+srv://chauhantarun0101:Tarun123@cluster0.aub5cv6.mongodb.net/UserData")
+  .connect("mongodb+srv://chauhantarun0101:Tarun123@cluster0.aub5cv6.mongodb.net/UserData",{
+    useNewUrlParser: true,
+  useUnifiedTopology: true
+  })
   .then(() => {
     console.log("database is connected successfully");
   })
