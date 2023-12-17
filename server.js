@@ -26,7 +26,7 @@ app.listen(process.env.PORT || 8081, () => {
 });
 
 mongoose
-  .connect("mongodb+srv://Tarunchauhan:Tarun123@cluster0.aub5cv6.mongodb.net/D-TechSolutions")
+  .connect(process.env.DB)
   .then(() => {
     console.log("database is connected successfully");
   })
